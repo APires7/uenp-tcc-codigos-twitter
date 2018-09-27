@@ -2,10 +2,10 @@ import sys
 import tweepy
 import csv  
 
-consumer_key = "p8NtlIZGaQZ4dIdGXUizLCM6F"
-consumer_secret = "SiPLBsJcc1GlMJVezvetN6j12KZwwXMe80FoJiSRfAnJt8OKuk"
-access_key="98717714-Uz0ceKwIH7zDFxq5essAzuttlY0fyPR3RoXChXJGV"
-access_secret="mn8kABOV7IeSoBDYpUpAOrDkuJtbw9nbXfiR76YIlRHQ9"
+consumer_key = ""
+consumer_secret = ""
+access_key=""
+access_secret=""
 
 outfile = "output_curitiba_streaming_nogps.csv"
 
