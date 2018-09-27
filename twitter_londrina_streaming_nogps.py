@@ -2,10 +2,10 @@ import sys
 import tweepy
 import csv  
 
-consumer_key = "EFnIoq77AHgIo8SgTsD5Ypsch"
-consumer_secret = "me8dIwSsNJ9J92FvDR9ZCQCtlZeIv1aQTnHrtzu6jtQiMlY7nj"
-access_key="98717714-rk4eM3GOzBS47JXOw5BJewAcEwiWJ9uLnS1WAUBIg"
-access_secret="7NtTXPwajoYOmmV52zUEt9sEaJqmEi4S9E8s6RvGgnI7l"
+consumer_key = ""
+consumer_secret = ""
+access_key=""
+access_secret=""
 
 outfile = "output_londrina_streaming_nogps.csv"
 
